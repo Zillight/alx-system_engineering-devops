@@ -1,1 +1,1 @@
-Betty
+Betty Linter
